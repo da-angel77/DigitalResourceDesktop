@@ -1,0 +1,253 @@
+<Resource>
+    <Animal>
+        <Bird>
+            <Domestic>
+                <item name="Chicken" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+                <item name="Dove" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+                <item name="Hen" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+                <item name="Parrot" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            </Domestic>
+            <Wild>
+                <item name="Guinea_fowl" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+                <item name="Ostrich" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+                <item name="Peacock" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+                <item name="Orange_bishop" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+                <item name="Pintailed_Whydah" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+                <item name="Senegal yellow" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+                <item name="villageweaver" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+                <item name="Yellowmantled" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            </Wild>
+            </Bird>
+        <Mammal>
+            <Domestic>
+                <item name="Cattle" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+                <item name="Dog" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+                <item name="Donkey" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+                <item name="Goat" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            </Domestic>
+            <Wild>
+                <item name="Cane_rat" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+                <item name="Giant_rat" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+                <item name="Pangolin" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+                <item name="Potto" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+                <item name="Squirrel" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+                <item name="Tullbergs_Rat" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+                <item name="Waterbuck" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+                <item name="Yellowbacked_Duiker" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            </Wild>
+        </Mammal>
+        <Reptile>
+            <Domestic>
+                <item name="Lizard" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+                <item name="Wallgeckor" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+                <item name="Monitor" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            </Domestic>
+            <Wild>
+                <item name="Chameleon" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+                <item name="Python" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            </Wild>
+        </Reptile>
+    </Animal>
+    <Art_Work>
+        <Metal_Work>
+        <item name="Adogan" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Alumilium" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Aperin" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Aperin_Nla" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Aro" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Batiri" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Crude_Pot" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Magnet" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Ashes" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+
+        </Metal_Work>
+        <Pottery>
+            <item name="Pitchers" hname="" iname="" yname="orùàgbo" desc="It is local made pot, mould from clay soil.  This pot is purposely used to prepare the mixture of herb and leaves with water for medicinal use." hdesc="" idesc="" ydesc=""/>
+	    <item name="ENA" hname="" iname="" yname="ajere" desc="It is traditional pot made from clay soil. The pot surrounded with a hole around it. This pot is use for ancestral worship and traditional healing ritual." hdesc="" idesc="" ydesc=""/>
+            <item name="Dye-pot" hname="" iname="" yname="àmùn aláró" desc="It is traditional pot made from clay soil. This pot is used to soak cloth during batik production." hdesc="" idesc="" ydesc=""/>
+            <item name="ENA" hname="" iname="" yname="àwo ìpèse" desc="It is traditional pot made from clay soil. The pot is use to prepared a traditional concoction for ancestral worship and traditional healing ritual." hdesc="" idesc="" ydesc=""/>
+	    <item name="Traditional-lamp-1" hname="" iname="" yname="fìtílà olójú-kan" desc="It is a traditional lamp made from clay soil. It a lamp one (1) thumb point with a cottonwood. The palm oil is split at the thumb point. The lamp is used for utilitarian, ritualistic, and symbolic purposes." hdesc="" idesc="" ydesc=""/>
+            <item name="Traditional-lamp-3" hname="" iname="" yname="fìtílà olójú-mẹ́ta" desc="It is a traditional lamp made from clay soil. It a lamp three (3) thumb point with a cottonwood. The palm oil is split at the thumb point. The lamp is used for utilitarian, ritualistic, and symbolic purposes." hdesc="" idesc="" ydesc=""/>
+            <item name="Traditional-lamp-4" hname="" iname="" yname="fìtílà olójú-mẹ́rin" desc="It is a traditional lamp made from clay soil. It a lamp four (4) thumb point with a cottonwood. The palm oil is split at the thumb point. The lamp is used for utilitarian, ritualistic, and symbolic purposes." hdesc="" idesc="" ydesc=""/>
+	    <item name="Traditional-lamp-16" hname="" iname="" yname="fìtílà olójú-mẹ́rìndin-lóógún" desc="It is a traditional lamp made from clay soil. It a lamp sixteenth (16) thumb point with a cottonwood. The palm oil is split at the thumb point. The lamp is used for utilitarian, ritualistic, and symbolic purposes." hdesc="" idesc="" ydesc=""/>
+            <item name="Osun-pot" hname="" iname="" yname="ìkòkò ọlọ́ṣún" desc="It is a traditional lamp made from clay soil. It used for ritual healing and traditional ancestral worship. This pot is usually used during Osun osogbo deity festival. " hdesc="" idesc="" ydesc=""/>
+            <item name="Bank" hname="" iname="" yname="kóló" desc="It is a traditional made bank, mould from clay soil. It is form of circle with a small hole at the top. It is used to keep money." hdesc="" idesc="" ydesc=""/>
+	    <item name="Big-soup-bowl" hname="" iname="" yname="ìsasùn ńlá" desc="It is a traditional pot made from clay soil. It is used for different purposes for cooking, fermentation, ancestral worship, traditional healing ritual and deity." hdesc="" idesc="" ydesc=""/>
+            <item name="Soup-bowl" hname="" iname="" yname="ìsasùn ọbẹ" desc="It is a traditional pot made from clay soil. It is used for cooking soup." hdesc="" idesc="" ydesc=""/>
+            <item name="ENA" hname="" iname="" yname="isasun àsèjẹ" desc="It is a traditional pot made from clay soil. It is used for prepared traditional concoction for healing ritual for individual." hdesc="" idesc="" ydesc=""/>
+	    <item name="ENA" hname="" iname="" yname="àwo ìpèsè-ńlá" desc="It is traditional big pot made from clay soil. The pot is use to prepared a traditional concoction for ancestral worship and traditional healing ritual." hdesc="" idesc="" ydesc=""/>
+            <item name="ENA" hname="" iname="" yname="kònjò" desc="It is traditional small pot made from clay. The pot is used to prepare for traditional healing ritual and deity." hdesc="" idesc="" ydesc=""/>
+	    <item name="Fryers-pot" hname="" iname="" yname="agbada ìjóòògùn" desc="It is traditional big pot made from clay. The pot is used to prepared local charms and medicine by herbalist and traditionalists." hdesc="" idesc="" ydesc=""/>
+            <item name="Water-coolers" hname="" iname="" yname="amu" desc="It is traditional big pot made from clay. The pot is used to store  water. The water stored in this pot will be chill or cold for some period." hdesc="" idesc="" ydesc=""/>
+	</Pottery>
+        <calabash>
+            <item name="Afigba" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+        </calabash>
+    </Art_Work>
+    <Plant>
+        <Cereal>
+            <item name="Groundnut" hname="Hausa Groundnut" iname="Igbo Groundnut" yname="Epa" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Maize" hname="Hausa Maize" iname="Igbo Maize" yname="Agbado" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Pearl Millet" hname="Hausa Pearl Millet" iname="Igbo Pearl Millet" yname="Yoruba Millet" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Red Sorghum" hname="Hausa Red Sorghum" iname="Igbo Red Sorghum" yname="Oka baba" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Rice" hname="Hausa Rice" iname="Igbo Rice" yname="Ìrẹsì" desc="" hdesc="" idesc="" ydesc=""/>
+        </Cereal>
+        <Fruit>
+            <item name="Africastar" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Avocado" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Banana" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Breadfruit" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Carrot" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Cashew" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Coconut" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Cucumber" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Date" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Eggplant" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Grape" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Guava" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Lemon" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Mango" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Orange" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Pawpaw" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Pineapple" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Plantain" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Pumpkin" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Soursop" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Tangerine" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Tigernut" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Tomatoes" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Watermelon" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+        </Fruit>
+        <Grain >
+            <item name="Brown beans" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Groundnut" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Mellon" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Pearl Millet" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Red Maize" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Red Sorghum" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Rice" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Soya bean" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Wheat" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="White Bean" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="White Maize" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="white sorghum" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+        </Grain>
+        <Herb>
+            <item name="Cassia Occidentalis" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Ficus Leprieurii" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Malotus" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Pteris quadriaurata" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Urenalobata" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+        </Herb>
+        <Tuber>
+            <item name="Carrot" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Cassava" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Cocoyam" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Garlic" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Ginger" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Irish Potato" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Onion" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Sweet Potato" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Taro" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Turmeric" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Wateryam" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Yam" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+        </Tuber>
+        <Vegetable >
+            <item name="ASpinosus" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Ficus" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Hyptis Suaveolens" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Jew Mallow" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Jussiaea" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Ocimumviride" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Senecio" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Solanum Macrantha" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Talinum" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Vernonia Tenoreana" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+        </Vegetable>
+    </Plant>
+    <Technology>
+        <Blacksmith>
+            <item name="Axe" hname="Gatari " iname="Ányụ́íke" yname="Àáke ìlagi" desc="An axe is a wood-cutting tool with a sharp metal blade attached to a long handle." hdesc="Gatari kayan aikin yankan itace ne mai kaifi mai kaifi a manne da dogon hannu." idesc="Ányùíke bụ̀ íhé á nà-èjí ègbú ósísí nwéré àhụ́ dị́ ńkọ́ étìnyèrè n'áká yá" ydesc="Àáké jẹ́ oun èèlò ìgé igi tó ní irin tó mú lórí igi tàbí irin ìgbámú tó gùn. "/>
+            <item name="Knife" hname="Wuka " iname="Ḿmà ụ́zụ" yname="Ọ̀bẹ ìkun màálù" desc="Knife is a tool or weapon with a cutting edge or blade, usually attached to a handle or hilt." hdesc="Wuka kayan aiki ne ko makami tare da yankan baki ko wuka, yawanci haɗe da hannu ko ƙugiya." idesc="Ḿmà ụ́zụ bụ̀ ńgwá ọ́rụ nwere ọ́nụ́ dị ńkọ́ á nà-ètínyé n'áká yá." ydesc="Ọ̀bẹ ẹ jẹ oun èèlò tàbí oun ìjà tó ní ẹnu tàbí abẹ ìgé nǹkan pẹ̀lú èèkù ní ìdí."/>
+            <item name="Bellow" hname="Zugazugi " iname="M̀kpú" yname="Ẹwìrì" desc="A tool with air bag that emits a stream of air when squeezed together with two handles, used for blowing air into a fire." hdesc="Kayan aiki mai jakar iska wanda ke fitar da rafin iska lokacin da aka matse shi tare da hannaye biyu, ana amfani da shi don hura iska cikin wuta." idesc="Ńgwá ọ́rụ nwéré àkpá ìkùkù ná-éwépụ́ ìkùkù m̀gbè á pị̀kọ̀tàrà yá ọ́nụ nwéré áká àbụ́ọ́ éjì áfụ̀ ọ́kụ ìkùkù." ydesc="Ẹwìrì jẹ́ oun èèlò tó ní ilé atẹ́gùn tó sì má ń fẹ́ atẹ́gùn síta nígbàtí wọ́n bá tẹ igi méjéèjì ìdí i rẹ̀ papọ̀. Wọ́n máa fi ń fẹ́ atẹ́gùn sì inú iná ni"/>
+            <item name="Grab hoe" hname="Kinasa/fartanya" iname="Ọ́gụ̀ ńjìdé" yname="Ẹ̀kúrọ́" desc="It is framing equipment usually used to hold metal irons that form a hoe. It is wood manufacture by blacksmiths." hdesc="Kayan aiki ne da aka saba amfani da shi don riƙe ƙarfe na ƙarfe waɗanda ke yin fartanya." idesc="Ọ́ bụ̀ ńgwá ọ́rụ éjì éjìdé ígwè ná èmépùtá ọ́gụ̀.ọ́ bụ̀ ósísí ọ̀kpụ́ụzụ mépụ̀tàrà" ydesc="Èrúkọ́ jẹ́ féréèmù tó máa ń gbé irin ọkọ́ dúró. Àwọn alágbẹ̀dẹ lò máa ń ṣe pẹ̀lú igi."/>
+	    <item name="Paml Kennel Shell" hname="Bainon diyan kwakina" iname="Íchéku" yname="Eésan" desc="It is the hard shell of the oil palm fruit seed that is broken to take out the kernel used for extracting palm oil. The shells are used for cooking and it is used by blacksmiths and goldsmiths to heat the metal." hdesc="Harsashi mai kauri ne na 'ya'yan itacen dabino da aka karye don fitar da kwaya da ake amfani da ita wajen hako dabino. " idesc="Ọ́ bụ̀ ókpókóró ḿkpụ́rụ́ ákị á nà-àgbọ́wá íji wépụ̀tá ákị éjì èwépụ̀tá ḿmánụ́ ńri. É jì  ókpókóró yá èsí ńri nàkwà ńdí ọ̀kpụ́ụzụ nà ọ̀kpụ́ ọ́láèdò nà éji yá àkwányé ígwè ọ́kụ́." ydesc="Eésan jẹ́ ẹ́ èèpo líle tí ẹyìn dúró lé lórí tí ó sì máa ń jẹ́ pí pa láti yọ èkùrọ́ nínú un rẹ̀. Eésan wúlò fún iná dí dá. Ó sì tún wúlò fún àwọn alágbẹ̀dẹ àti àwọn gosimíìtì láti fi iná yọ́ irin."/>
+            <item name="Cutlass" hname="Adda" iname="Égbútù" yname="Àdá" desc="A cutlass is a tool that is used for cutting through vegetation, such as crops or weeds. It is a handheld tool that is typically about 2 feet long and has a curved blade. It is also used for clearing areas of land for farming or other purposes." hdesc="Yanke  kayan aiki ne da ake amfani dashi." idesc="Égbútù bụ̀ ńgwá ọ́rụ éjì àsụ́chásị́ ọ́hị́á nàkwà ègbútùsí ósísí.Á nà-èjí yá àrụ́ ọ́rụ́ n'àlà nàkwà n'úbì." ydesc="Àdá jẹ́ irin iṣẹ́ tí wọ́n máa ń fi gé oko bíi oun ọ̀gbìn tàbí koríko. Irin iṣẹ́ mímú lọ́wọ́ ni, tó sì má ń sábà gùn ní ìwọ̀n bàtà ẹsẹ̀ méjì pẹ̀lú ẹnu abẹ tó tẹ. Àdá wúlò fún oko gígé fún iṣẹ́ àgbẹ̀ tàbí fún nǹkan mìíràn"/>
+            <item name="Gun" hname="Bindiga" iname="Égbè" yname="Ìbọn" desc="A weapon incorporating a metal tube from which bullets, shells, are propelled by explosive force and with sharp noise. It is used by hunter for killing an animal in the bush." hdesc="Makamin da ya haɗa da bututun ƙarfe wanda harsashi, harsashi, ke motsawa da ƙarfi da ƙarfi da hayaniya." idesc="Égbè bụ̀ ńgwá ọ́rụ nwéré ḿgbọ́ á nà-èjí àgbágbú ụ́mụ́ ánụ́ọ́hị́á." ydesc="Ìbọn ọ́n jẹ́ irin iṣẹ́ ìjà tó ṣe àmúlò irin lè yìí tó jẹ́ pé ọta àti èèpo lile máa ń jáde nínú un rẹ̀ pẹ̀lú agbára ariwo tó rinlẹ̀. Àwọn ọdẹ máa ń lò ó láti pa ẹran nínú igbó. "/>
+	    <item name="Ring" hname="Zobe" iname="m̀gbànáká" yname="oruka" desc="It is made up metal steel and it is manufacture by blacksmith. It is used to show commitment, devotion, and love to the woman." hdesc="Karfe ne aka yi shi, kuma maƙera ne ke kera shi." idesc="M̀gbànáká bụ̀ íhé ónyé ọ̀kpụ́ụzụ nà-èmépụ̀tá.É jì yá ègósí íhụnànyá nà ídínótù nwóké nà nwáànyị̀." ydesc="Orúkọ jẹ́ oun tí wọ́n máa ń fi irin ṣe. Àwọn alágbẹ̀dẹ ló sì máa ń ṣe é. Wọ́n má ń fi òrùka ṣe àfihàn, ìfọkànsìn àti ìfẹ́ sí obìnrin."/>
+	    <item name="Bick iron" hname="Maƙera ƙarama" iname="Ígwè ígwè" yname="aakan mọle" desc="It is a considered a small version of a Blacksmith's Anvil. It is used in Tinsmithing and by others for general working of sheet metal." hdesc="An yi la'akari da ƙaramin sigar maƙarƙashiya. " idesc="Ọ́ bụ̀ ńgwá ọ́rụ éjì àrụ́ ọ́rụ n'ígwè." ydesc=""/>
+	    <item name="Tipper load" hname="Tipper kaya" iname="Úbè" yname="sọ̀ńkú" desc="A tool that has a long blade and a flat surface and is used for digging. It is used for digging holes in the soil and it is also used to load sand in a truck or tipper." hdesc="Kayan aiki wanda ke da dogon ruwa da shimfidar wuri kuma ana amfani dashi don tono." idesc="Ńgwá ọ́rụ nwéré ógólógó àhụ́ ńkọ éjì ègwú àlà màọ̀bụ̀ tínyé ája nà típà." ydesc="Sọ̀ńkú jẹ́ irin iṣẹ́ tó ní abẹ tó gùn àti ojú pẹlẹbẹ, èyí tí wọ́n máa ń fi gbẹ́ kòtò nínú ilẹ̀. Wọ́n tún máa ń fi ń kó yèpẹ̀ sí inú ọkọ̀ akóyèpẹ̀."/>
+	    <item name="Punch" hname="Mahubi" iname="Ḿkpútú" yname="ìlu" desc="Punches are used to drive fasteners such as nails and dowels, making a hole, or forming used to create a pattern or even form an image. Some have wooden handles while others have metal." hdesc="Ana amfani da naushi don fitar da ƙusoshi kamar ƙusoshi da kusoshi, yin rami, ko ƙirƙira da ake amfani da su don ƙirƙirar tsari ko ma yin hoto." idesc="Á nà-èjí yá ètínyé ǹtú n'ímé ósísí.Áká yá bụ̀ ósísí mànà ébé ńdí ọzọ dị̀kà ígwè." ydesc="Ìlu ú jẹ́ òun tí wọ́n máa fi ń so nǹkan bí i èsó àti dówẹ́ẹ̀lì, lí lu ihò tàbí hun àwòrán. Àwọn ẹ̀yà ìlu kan an máa ń ní èèkù o ní igi tàbí o ní irin."/>
+	    <item name="Scissor" hname="Almakashi" iname="M̀kpà" yname="sísọ́ọ̀sì" desc="It is made of steel, specifically carbon steel, while others are made from stainless steel. It is cutting instruments consisting of a pair of metal blades; it is used cut metal sheets such as steel, stainless steel, and aluminum plates, as well as cardboard, plywood, and electrical wires." hdesc="An yi shi da karfe, musamman karfen carbon, yayin da wasu kuma daga bakin karfe ne. " idesc="Á nà-èjí yá áchà íhé àbụ́ọ màọ̀bụ̀ áchàké íhé ná-àdị́ghị árụ." ydesc="Irin ni wọ́n máa fi ń ṣe sísọ́ọ̀sì pàápàá jùlọ irin eléèédú, tí wọ́n sì fi irin dídán ṣe àwọn mìíràn. Irin iṣẹ́ ìgé nǹkan ni tó ní ẹnu alábẹ oníbejì. Wọ́n máa fi ń gé irin fẹ́lẹ́fẹ́lẹ́ bíi sítíìlì, irin dídán àti irin ayọ́ pẹ̀lú páálí, igi fẹ́lẹ́fẹ́lẹ́ àti wáyà iná."/>
+	    <item name="Head cutting knife" hname="Aska" iname="Ḿmà ị́kpụ́ ńtùtù" yname="ọ̀bẹ ìfá irungbọn" desc="It is a sharpest knife blades available are razor blades. It is used to cut hair, usually for softer effect. It is used for the removal of nape hair, facial hair design, and the trimming of eyebrows. " hdesc="Yana da mafi kaifi mafi kyawun wuka da ake samu akwai ɗigon reza. " idesc="Ọ́ bụ̀ ḿma dị̀kásị́ ńkọ́ kà ágụ̀bá á nà-èjí yá àkpụ́chásị́ ńtùtù." ydesc="Ọ̀bẹ ìfá irungbọn jẹ́ abẹ fẹ́lẹ́. Wọ́n máa fi ń fá irun pẹ̀lú ẹ̀rọ̀ wọ́ọ́rọ́. Wọ́n máa fi ń fá irun ẹ̀yìn ọrùn, fi dárà sí irun ojú àti fún rírẹ irun ìpéǹpéjú nílẹ̀. Wọ́n máa fi ń fá irun ráúráú."/>
+	    <item name="Anvil" hname="Umar maƙera" iname="" yname="àkànmọ́lẹ̀" desc="It is basic tools of blacksmith. It is used to shape metal, usually by forging it. An anvil is a large, heavy block of metal that is used for shaping metal by hammering it with a hammer." hdesc="Kayan aiki ne na asali na maƙera. " idesc="Á nà-èjí yá ányà ígwè.ọ́ nà-ébù mà dị́kwá ézígbó árụ." ydesc="Àkànmọ́lẹ̀ jẹ́ ẹ́ irin iṣẹ́ alágbèdẹ. Wọ́n máa fi ń ṣe àtúndá irin, pàápàá jù lọ pẹ̀lú ù fí fi na irin mọ́lẹ̀ lẹ́yìn yíyọ kúrò nínú iná. Àkànmọ́lẹ̀ jẹ́ irin ní ńlá tó wúwo fún nína irin mọ́lẹ̀. "/>
+            <item name="File" hname="Zarto" iname="Ńgwúnyé" yname="ìpọ́nrin" desc="A file is a tool used to remove fine amounts of material from a workpiece. It is used to cut, smooth, or remove small measures of metal steels, wood, plastic, or other material. It is made in different lengths, shapes, and cuts." hdesc="Fayil kayan aiki ne da ake amfani da shi don cire kyawawan adadin abu daga kayan aiki. " idesc="Á nà-èjí yá èwépụ̀chá ụ́mụ̀íyíríyí íhé ńdí nọ́gásị́ n'àhụ́ ósísí íji mée kà ọ́ dị́ ḿma n'ányá." ydesc="Ìpọ́nrin jẹ́ irin iṣẹ́ tí a le fi mú ìwọ̀nba díẹ̀ kúrò lára oun iṣẹ́. Wọ́n máa fi ń gé nǹkan, dán nǹkan tàbí mú díẹ̀ kúrò lára irin, igi, ike, tàbí àwọn nǹkan mìíràn. Wọ́n máa ń ṣe é ní orísìírísìí ìwọ̀n, ṣéèpù àti ìrí."/>
+	    <item name="Knife for cow" hname="Barho (Wuƙar Yankan shanu)" iname="" yname="ọ̀bẹ ikun maalu" desc="Knife is a tool or weapon with a cutting edge or blade, usually used to kill a cow." hdesc="Wuka kayan aiki ne ko makami mai yankan baki ko tsinke, galibi ana amfani da shi wajen kashe saniya." idesc="Ḿmà éhi bụ̀ íhé nwéré àhụ́ dị́ ézígbó ńkọ. Á nà-èjí yá ègbú éhi" ydesc="Ọ̀bẹ ni irin iṣẹ́ tàbí oun ìjà pẹ̀lú ẹnu ìgé nǹkan tàbí abẹ. A máa sábà fi ń pa màálù. "/>
+	    <item name="Hoe" hname="Fartanya" iname="Ọ́gụ̀" yname="ọ̀kọ̀" desc="A hoe is a farm tool used to cultivate the soil that can be used for planting seeds." hdesc="Fartanya kayan aikin gona ne da ake amfani da shi don noma ƙasar da za a iya amfani da ita don shuka iri." idesc="Ọ́gụ̀ bụ̀ ńgwá ọ́rụ úbì á nà-èjí àkụ́ íhé." ydesc="Ọkọ́ jẹ́ irin iṣẹ́ oko dídá láti kọ ilẹ̀ fún ún gbí gbin irúgbìn."/>
+	    <item name="Hook" hname="ƙugiya" iname="Ǹkò" yname="Hook nla" desc="It is a piece of metal or other hard material curved or bent back at an angle, for catching hold of or hanging things on." hdesc="Karfe ne ko wani abu mai kauri mai lankwasa ko lankwasa baya a kusurwa, don kamawa ko rataya abubuwa a kai." idesc="Ọ́ bụ̀ íhé á nà-èjí àchụ́tá íhé.ọ́nụ́ yá nyàrà ányà. Á nà-èjí yá àchụ́tá ázụ̀." ydesc="Ìwọ̀ ńlá jẹ́ irin béńbé tàbí nǹkan mìíràn tó le tó tún tẹ̀ ṣé yìn ni déédéé ìwọ̀n igun kan fún mímú tàbí gbígbé nǹkan dúró."/>
+	    <item name="Security" hname="Tsaro" iname="Ǹché" yname="kónílé ógbélé" desc="It is a piece of metal or other hard material curved or bent back at an angle, for catching hold of or hanging things on. It is usually placed at the back of door of house and used for security purposed." hdesc="Ƙarfe ne ko wani abu mai kauri mai lanƙwasa ko lankwasa baya a kusurwa, don kamawa ko rataye abubuwa a kai." idesc="Ọ́ bụ̀ íhé á nà-èjí èjìdé íhé kà ọ́ ghàrá ị́dapụ̀.Á nà ètínyékwá ya n'àzụ́ ụ́zọ̀ ụ́lọ̀ màkà ńchékwá" ydesc="Kónílé ógbélé jẹ́ irin béńbé tàbí nǹkan mìíràn tó le tó tún tẹ̀ ṣé yìn ni déédéé ìwọ̀n igun kan an, fún mímú tàbí gbígbé nǹkan dúró. Wọ́n má ń sáábà fi sí ẹ̀yìn ìlẹ̀kùn fún ṣíṣe ààbò."/>
+	    <item name="Sickle" hname="Lauje" iname="Ḿmà ńkọ" yname="Ìkákòkó" desc="It is a tool used for harvests cocoa tree. It is a curved steel edged blade fixed to the wooden handled the cutting edge may be plain depending upon the design." hdesc="Kayan aiki ne da ake amfani da shi don girbi itacen koko." idesc="Ọ́ dị̀ kà ḿmà.Ọ́ dị̀ ézígbó ńkọ mà nyàkwá ànyá. Á nà-èjí yá àhọ́tàpụ̀tá òsìkápá" ydesc="Ìkákòkó jẹ́ irin iṣẹ́ tí wọ́n fí ń ká kòkó lórí igi i rẹ̀. Ó jẹ́ abẹ onírin tó tẹ̀ pẹ̀lú u dí dè mọ́ igi. Ẹnu abẹ ẹ rẹ̀ le jẹ́ ọlọ́bọ̀rọ́ ní àgbékalẹ́ rírọ ọ rẹ̀. "/>
+	    
+	    <item name="Pick mattock" hname="Diga" iname="Ǹgù" yname="àáke ọ̀pẹ" desc="It a tool with short handles and a stout head which combines a vertical axe blade particular used for cultivate a palm oil tree." hdesc="kayan aiki ne mai guntuwar hannu da katon kai wanda ya hada da gatari a tsaye musamman da ake amfani da shi wajen noman bishiyar dabino." idesc="Ńgù bụ̀ ńgwá ọ́rụ dị́ ógólógó mà nwékwá àhû dị ńkọ́ éjì àhọ́tá ósísí ákwụ." ydesc="Àáké ọ̀pẹ jẹ́ irin iṣẹ́ pẹ̀lú orí tó sanra tó mú abẹ onírin tó nàró."/>
+	    <item name="Hoe" hname="Fartanya" iname="Ọ́gụ̀" yname="ọ̀kọ̀ ìkọbẹ̀" desc="A hoe is a farm tool used to cultivate the soil that can be used for planting seeds." hdesc="Fartanya kayan aikin gona ne da ake amfani da shi don noma ƙasar da za a iya amfani da ita don shuka iri." idesc="Ọ́gụ̀ bụ̀ ńgwá ọ́rụ úbì á nà-èjí àkụ́ íhé." ydesc="Ọ̀kọ́ ìkọbè jẹ́ irin iṣẹ́ oko tí wọ́n fí ń kọ ilẹ̀ fún ebè láti dá oko "/>
+	    <item name="Hoe" hname="Fartanya" iname="Ọ́gụ̀" yname="ọ̀kọ̀ ìroko" desc="A hoe is a farm tool used to removing a weed on a farm land, before planting a seeds." hdesc="Fartanya kayan aikin gona ne da ake amfani da shi don noma ƙasar da za a iya amfani da ita don shuka iri." idesc="Ọ́gụ̀ bụ̀ ńgwá ọ́rụ úbì á nà-èjí àkụ́ íhé." ydesc="Ọ̀kọ́ ìroko jẹ́ irin iṣẹ́ oko tí wọ́n fí ń ro oko síwájú gbìn gbin irúgbìn."/>
+	    <item name="Chisel" hname="Maƙankari" iname="Chísélụ̀ " yname="ọmọ́ oówú" desc="It is used for cutting or splitting hot steel, these may also be used to lay lines out on cold mild steel as well. They are hardened, tempered and ground after forging." hdesc="Ana amfani da shi don yanke ko tsaga karfe mai zafi, ana iya amfani da waɗannan don shimfiɗa layi akan ƙaramin ƙarfe mai sanyi kuma." idesc="Á nà-éjì yá èkèwá ígwè dị̀ ọ́kụ." ydesc="Ọmọ oówú jẹ irin iṣẹ́ tí wọ́n fí ń gé irin gbígbóná tàbí kí wọ́n fi yà sọ́tọ̀. Wọ́n tún le fi fa ìlà sí ara irin tí kò tutù jú."/>
+	    <item name="Drift" hname="Yawo" iname="Ńkèwá" yname="àáke bórò" desc="It is an implement that has been used for to shape, split, and cut wood, to harvest timber, as a weapon, and as a ceremonial symbol." hdesc="Kayan aiki ne da aka yi amfani da shi don siffata, tsagawa, da yanke itace, don girbi katako, a matsayin makami, da kuma alamar bikin." idesc="Á nà-éjì yá èkèwá íhé màọ̀bụ̀ ósísí àbụ́ọ́." ydesc="Àáké bórò jẹ́ irin iṣẹ́ tí wọ́n ń gbẹ́ igi, tàbí, yà sọ́tọ̀ tàbí gé e. Ó wúlò fún nǹkan ìjà àti àmì ayẹyẹ."/>
+	    <item name="Hammer" hname="Guduma" iname="Hámà" yname="òòlu" desc="A tool with a heavy metal head mounted at right angles at the end of a handle and is used by blacksmith to deliver controlled force to shape and manipulate hot metal." hdesc="Kayan aiki tare da kai mai nauyi wanda aka ɗora a kusurwoyi madaidaici a ƙarshen hannu kuma maƙerin ke amfani dashi don isar da ƙarfin sarrafawa don siffa da sarrafa ƙarfe mai zafi." idesc="Hámà bụ̀ ígwè á nà-èjí àkụ́bànyé ǹtú n'ímé ósísí màọ̀bụ̀ àkụ́ íhé." ydesc="Òòlù jẹ́ irin iṣẹ́ tó ní irin tó wúwo lórí ní igun apá ọ̀tún lòpin èèkù. Àwọn alágbẹ̀dẹ mọ́ ń fí rọ irin gbígbóná àti àtúndá a rẹ̀."/>
+	    <item name="Pinser" hname="Yin tunani" iname="M̀kpá" yname="ẹ̀mú" desc="It is a tool used to grip and lift objects instead of holding them directly with hands." hdesc="Kayan aiki ne da ake amfani da shi don kamawa da ɗaga abubuwa maimakon riƙe su kai tsaye da hannu." idesc="Ǹké à bụ̀ íhé á nà-èjí èjìdé íhé màọ̀bụ̀ jí yá búlíé íhé élú mà áchọ́ghị ímétụ́ yá áká." ydesc="Ẹ̀mú jẹ irin iṣẹ́ ìmú nǹkan láti gbé e sókè, yàtọ̀ sí fí fi ọwọ́ lásán mú un."/>
+	    <item name="Trap" hname="Fako/Guru" iname="Ọ́nyà" yname="tàkúté" desc="It is metal steel device design by blacksmith for farmer to catch and retain animals on a farm. It is basically design by allowing entry but not exit or by catching hold of a part of the body." hdesc="Na'urar karfe ce ta maƙera don manomi don kamawa da riƙe dabbobi a gona. " idesc="Ọ́nyà bụ̀ íhé ndị́ ńta nà-èjí èjìdé ụ́mụ̀ ánụ́ ọ́hị́á." ydesc="Tàkúté jẹ irin iṣẹ́ tí àwọn alágbẹ̀dẹ ẹ́ rọ fún àwọn àgbẹ̀ láti mú ẹranko sílẹ̀ ní oko. Wọ́n ṣe ìsẹ̀dá a rẹ̀ láti ni ọ̀nà àbáwọlé láìní àbájáde tàbí láti mú apá kan sílẹ̀."/>
+	    <item name="Gun bullet" hname="Albarushi/Harsasho" iname="Égbè ḿkpálị̀" yname="ọta-ìbọn" desc="It is a metal projectile for firing from a rifle, usually designed in a cylindrical shape. It is basically used by hunter for killing animal." hdesc="Ƙarfe ne don harbi daga bindiga, yawanci ana tsara shi da siffa mai siliki." idesc="Égbè ḿkpálị̀ bụ̀ ńgwá ọ́rụ nwéré ḿgbọ́ á nà-èjí àgbágbú ụ́mụ́ ánụ́ọ́hị́á." ydesc="Ọta ìbọn jẹ́ irin sóńsó tí wọ́n ń fí  yìn ìbọn tí wọ́n ìsẹ̀dá a rẹ̀ bíi ìdúró sìlíndà. Àwọn ọdẹ ni wọ́n má fi ń pa ẹranko."/>
+	    
+	    <item name="" hname="" iname="" yname="" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="" hname="" iname="" yname="" desc="" hdesc="" idesc="" ydesc=""/>
+	    <item name="" hname="" iname="" yname="" desc="" hdesc="" idesc="" ydesc=""/>
+		
+	</Blacksmith>
+        <Food_Production>
+
+        </Food_Production>
+        <Goldsmith>
+            <item name="Stoves" hname="HNA" iname="INA" yname="Ààró" desc="It is made of clay soil. It is spot where the bellows will connect to." hdesc="An yi shi da ƙasa yumbu." idesc="Éjì ája kpụ́ọ́ yá. Ọ́ bụ̀ ébé m̀kpú nà-àbíákọ́tá ọ́nụ." ydesc=""/>
+            <item name="Brick" hname="baƙin ƙarfe" iname="Ígwè árọ́" yname="àkànmọ́lẹ̀" desc="It is basic tools of blacksmith. It is used to shape metal, usually by forging it. An anvil is a large, heavy block of metal that is used for shaping metal by hammering it with a hammer." hdesc="Kayan aiki ne na asali na maƙera." idesc="Á nà-èjí yá ányà ígwè.ọ́ nà-ébù mà dị́kwá ézígbó árụ." ydesc=""/>
+            <item name="Brush" hname="bursu" iname="áhỊ́hỊ́á " yname="Búrọ̀sì " desc="It is used to smoothing out and polishing rough surfaces because their abrasive characteristic can remove excess material." hdesc="Ana amfani da shi don yin santsi da goge m saman saboda halayen su na iya cire abubuwan da suka wuce gona da iri." idesc="Á nà-èjí yá n’áká èhíchásị́ élú íhé árụ̀rụ̀ àrụ́." ydesc=""/>
+            <item name="File" hname="fayil" iname="Ńgwúnyé" yname=" " desc="It is used to flatten the larger areas or ends of wire in order to remove small amounts of excess material on metal." hdesc="Ana amfani da shi don daidaita manyan wurare ko ƙarshen waya don cire ƙananan abubuwa masu yawa akan ƙarfe." idesc="Á nà-èjí yá èwépụ̀chá ụ́mụ̀íyíríyí íhé ńdí nọ́gásị́ n'àhụ́ ósísí íji mée kà ọ́ dị́ ḿma n'ányá." ydesc=""/>
+            <item name="Flat-piler" hname="lebur mai lebur" iname="m̀kpàpị̀ dỊ́ lárị́ị" yname="ẹ̀mú pẹlẹbẹ " desc="Piers are a handheld tool primarily used to hold or bend small objects." hdesc="Piers kayan aiki ne na hannu da aka fi amfani dashi don riƙewa ko lankwasa kananan abubuwa." idesc="Á nà-èjí yá n’áká íjìdè màọ̀bụ̀ ị́nyà íhé óbére." ydesc=""/>
+            <item name="Gold-pot" hname="karamar tukunya " iname="ìtè óbére" yname="Kóló" desc="This pot is used to heat or melting the raw gold. It is on different size." hdesc="Ana amfani da wannan tukunyar don zafi ko narka ɗanyen gwal. " idesc="Ọ́ bụ̀ ìtè á nà-èjí àgbásà ọ́láèdò m̀gbè ọ́gbàrà Ọ́kpụ̀rụ̀kpụ̀." ydesc=""/>
+	    <item name="Hammer" hname="guduma" iname="Hámà" yname="Òòlu" desc="It is used to perfect shape and weight for forging gold and polished the face to remove all the old marks." hdesc="Ana amfani da shi don kammala siffa da nauyi don ƙirƙira zinare da goge fuska don cire duk tsoffin alamomi." idesc="Hámà bụ̀ ígwè á nà-èjí àkụ́bànyé ǹtú n'ímé ósísí màọ̀bụ̀ àkụ́ íhé" ydesc=""/>
+            <item name="Patter-formation" hname="tsari samuwar" iname="Ńhàzí úkpúrú" yname="Méèlì" desc="It is machine used to ground the gold after removed from flat plate. The thickness of the gold with is determined from the machine setting." hdesc="Na'ura ce ake amfani da ita wajen kasa zinaren bayan an cire shi daga farantin lebur." idesc="Á nà-èjí yá ègwè ígwè éwépụ̀rụ̀ n’éféré dỊ́ lárị́ị." ydesc=""/>
+	    <item name="Flat-plate" hname="farantin karfe" iname="éféré dỊ́ lárị́ị" yname="ọkọ̀" desc="A polished steel block designed to provide with a flush surface for flattening metal sheet accurately." hdesc="Tushen ƙarfe mai gogewa wanda aka ƙera don samar da ƙasa mai gogewa don ɓata takardar ƙarfe daidai." idesc="Á nà-èjí yá àgbásá ìgwè ígwè ọ̀fụ́má." ydesc=""/>
+            <item name="Pattern" hname="HNA " iname="INA" yname="Mooli" desc="These tools are of different shapes can be flat, round and it is used to chisel or carve out specialty shapes into stones." hdesc="Wadannan kayan aikin suna da siffa daban-daban na iya zama lebur, zagaye kuma ana amfani da su don sassaƙa ko sassaƙa sufurori na musamman zuwa duwatsu." idesc="Á nà-èjí yá àkábànyé íhé n’òkwúté." ydesc=""/>
+	    <item name="Pinser" hname="yin tunani" iname="m̀kpá" yname="Ẹ̀mú" desc="It is a tool used to grip and lift objects instead of holding them directly with hands." hdesc="Kayan aiki ne da ake amfani da shi don kamawa da ɗaga abubuwa maimakon riƙe su kai tsaye da hannu." idesc="Ǹké à bụ̀ íhé á nà-èjí èjìdé íhé màọ̀bụ̀ jí yá búlíé íhé élú mà áchọ́ghị ímétụ́ yá áká." ydesc=""/>
+            <item name="Paml-oil" hname="dabino" iname="ḿmánú ńri" yname="epo pupa" desc="It is part of the tool used for blow the fire when melting the gold." hdesc="Yana daga cikin kayan aikin da ake amfani da shi don hura wuta lokacin narka gwal." idesc="Á nà-èjí yá àkwányé ọ́kụ kà ónwúsíéíke." ydesc=""/>
+	    <item name="Scissor" hname="almakashi" iname="M̀kpà" yname="sísọ́ọ̀sì" desc="It is cutting instruments consisting of a pair of metal blades; it is used cut metal sheets such as steel, stainless steel, and aluminum plates, as well as cardboard, plywood, and electrical wires." hdesc="Yana da kayan yankan da suka ƙunshi nau'i-nau'i na karfe." idesc="Á nà-èjí yá áchà íhé àbụ́ọ màọ̀bụ̀ áchàké íhé ná-àdị́ghị árụ." ydesc=""/>
+	    <item name="Trumpet" hname="HNA" iname="INA" yname="Feere fitila" desc="It is used to blow fire with the used of palm oil." hdesc="Ana hura wuta da man dabino." idesc="Á nà-èjí yá àkwányé ọ́kụ kà ónwúsíéíke." ydesc=""/>
+            <item name="Aluminum-plate" hname="aluminum farantin" iname="éféré àlùmínọmụ̀" yname="Abọ́ ayọ́" desc="It is used to wash the finished product. The gold (ring or necklace) with chemical will be put in the aluminum plate for final washing. " hdesc="Ana amfani dashi don wanke kayan da aka gama." idesc="Á nà-èjí yá àsá íhé árùchàrà àrúchá.Á gà ètínyé ọ́láèdò áhụ̀ n’ímé yá màkà ọ̀sị́sá ǹkè íkpéàzụ́." ydesc=""/>
+	    <item name="Scale" hname="sikelin" iname="ọ̀tụ̀tụ̀" yname="ìwọ̀n" desc="It is electronic device with an internal weighing mechanism. Usually for measuring gold weight." hdesc=" Na'urar lantarki ce mai tsarin awo na ciki." idesc="Á nà-èjí yá àmátá ọ̀gụ́gụ́ íhé." ydesc=""/>	    
+	    <item name="Burrs" hname="bursu" iname="bọ́ọ̀sị̀" yname="kọọti" desc="It is used to shape and design patterns on stones and other jewellery pieces. It is a sold in sets and feature different shapes at the end of the burrs in order to grind out different shapes or details." hdesc="Ana amfani da shi don tsarawa da tsara alamu akan duwatsu da sauran kayan ado." idesc="Á nà-èjí yá èsè íhé n’òkwúté màọ̀bụ̀ n’ọ́láèdò." ydesc=""/>
+	    <item name="Palm-kernel-shell" hname="dabino Kener harsashi" iname="íchékú" yname="Eésan" desc="It is the hard shell of the oil palm fruit seed that is broken to take out the kernel used for extracting palm oil. The shells are used for cooking and it is used by blacksmiths and goldsmiths to heat the metal." hdesc="Harsashi mai kauri ne na 'ya'yan itacen dabino da aka karye don fitar da kwaya da ake amfani da ita wajen hako dabino." idesc="Ọ́ bụ̀ ókpókóró ḿkpụ́rụ́ ákị á nà-àgbọ́wá íji wépụ̀tá ákị éjì èwépụ̀tá ḿmánụ́ ńri. É jì  ókpókóró yá èsí ńri nàkwà ńdí ọ̀kpụ́ụzụ nà ọ̀kpụ́ ọ́láèdò nà éji yá àkwányé ígwè ọ́kụ́." ydesc=""/>		
+	    <item name="Bellow" hname="kararrawa" iname="m̀kpú" yname="Ẹwìrì" desc="A tool with air bag that emits a stream of air when squeezed together with two handles, used for blowing air into a fire." hdesc="Kayan aiki mai jakar iska wanda ke fitar da rafin iska lokacin da aka matse shi tare da hannaye biyu, ana amfani da shi don hura iska cikin wuta." idesc="Ńgwá ọ́rụ nwéré àkpá ìkùkù ná-éwépụ́ ìkùkù m̀gbè á pị̀kọ̀tàrà yá ọ́nụ nwéré áká àbụ́ọ́ éjì áfụ̀ ọ́kụ ìkùkù." ydesc=""/>
+	    <item name="" hname="" iname="" yname=" " desc="" hdesc="" idesc="" ydesc=""/>
+	</Goldsmith>
+        <Weaver>
+            <item name="Akaro" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Asa" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Cotton" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Ikekere" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Keke" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Odadaa" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Oko" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Omu" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+            <item name="Opa" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+        </Weaver>
+    </Technology>
+
+    <Bird>
+        <Domestic >
+            <item name="Adiye" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+        </Domestic>
+        <Wild >
+            <item name="Asa" hname="Hausa itemname" iname="Igbo itemname" yname="Yoruba itemname" desc="" hdesc="" idesc="" ydesc=""/>
+        </Wild>
+    </Bird>
+</Resource>
